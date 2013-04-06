@@ -1,0 +1,68 @@
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\sir.exe
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\sir.pdb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\obj\x86\Debug\sir.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\obj\x86\Debug\sir.exe
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\obj\x86\Debug\sir.pdb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\enemy.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\terrain.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\enemy_0.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\terrain_0.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\sunset_0.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\shotgun.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\FBX\AD291EC9\shotgun.fbm\shotgun_0.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Arial.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\Skydome.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\SkydomeTex.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\SpriteFont.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\bg.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\bg2.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\ourFont.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\Ship.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\ShipDiffuse_1.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\bg3.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Models\boat.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse_0.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\instruction.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\intro.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\monster.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\ship.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\intro.wma
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\beat.xnb
+D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Debug\Content\Audio\beat2.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\intro.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\enemy.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\terrain.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\Ship.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\boat.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\shotgun.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\SkydomeTex.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\bg.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\bg2.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\bg3.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\instruction.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\Skydome.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\SpriteFont.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\ourFont.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Arial.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\monster.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\ship.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\beat.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\beat2.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\enemy_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\terrain_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\sunset_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\FBX\4CC7104C\shotgun.fbm\shotgun_0.xnb
+F:\sir\sir\sir\bin\x86\Debug\Content\Audio\intro.wma
+F:\sir\sir\sir\bin\x86\Debug\sir.exe
+F:\sir\sir\sir\bin\x86\Debug\sir.pdb
+F:\sir\sir\sir\bin\x86\Debug\Newtonsoft.Json.dll
+F:\sir\sir\sir\obj\x86\Debug\sir.csprojResolveAssemblyReference.cache
+F:\sir\sir\sir\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\sir\sir\sir\obj\x86\Debug\sir.exe
+F:\sir\sir\sir\obj\x86\Debug\sir.pdb

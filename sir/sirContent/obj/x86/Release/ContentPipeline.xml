@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Name>Models\enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\enemy.xnb</Output>
+      <Time>2013-01-01T14:00:21.6592329+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\enemy_0.xml</Key>
+        <Value>2013-01-07T17:44:40.6008827+08:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\enemy_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\terrain.fbx</Source>
+      <Name>Models\terrain</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\terrain.xnb</Output>
+      <Time>2013-01-01T14:00:21.6802341+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\terrain_0.xml</Key>
+        <Value>2013-01-07T17:44:41.3199239+08:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\terrain_0.xnb</Request>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\sunset_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\shotgun.FBX</Source>
+      <Name>Models\shotgun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\shotgun.xnb</Output>
+      <Time>2013-01-07T06:30:10.5831301+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\shotgun_0.xml</Key>
+        <Value>2013-01-07T17:44:42.0979684+08:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\FBX\AD291EC9\shotgun.fbm\shotgun_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\enemy_0.xml</Output>
+      <Time>2013-01-01T14:00:21.6592329+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\enemy_0.xnb</Output>
+      <Time>2013-01-01T14:00:21.661233+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\terrain_0.xml</Output>
+      <Time>2013-01-01T14:00:21.6802341+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\terrain_0.xnb</Output>
+      <Time>2013-01-01T14:00:21.6862344+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sunset.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\sunset_0.xnb</Output>
+      <Time>2013-01-01T14:00:21.678234+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\shotgun.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\shotgun_0.xml</Output>
+      <Time>2013-01-07T06:30:10.5831301+08:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\AD291EC9\shotgun.fbm\shotgun.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\FBX\AD291EC9\shotgun.fbm\shotgun_0.xnb</Output>
+      <Time>2013-01-07T17:44:42.0669666+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Name>Models\Ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="RotationY">180</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\Ship.xnb</Output>
+      <Time>2013-01-08T16:19:28.0832608+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Ship_0.xml</Key>
+        <Value>2013-01-08T19:36:02.3898565+08:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\ShipDiffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\SkydomeTex.tga</Source>
+      <Name>Models\SkydomeTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\SkydomeTex.xnb</Output>
+      <Time>2013-01-08T07:59:48.7765425+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShipDiffuse.tga</Source>
+      <Name>Models\ShipDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\ShipDiffuse.xnb</Output>
+      <Time>2013-01-08T16:14:12.4812094+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.jpg</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\bg.xnb</Output>
+      <Time>2013-01-08T14:44:22.8179383+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bg2.jpg</Source>
+      <Name>bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\bg2.xnb</Output>
+      <Time>2013-01-08T14:44:22.8209384+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bg3.jpg</Source>
+      <Name>bg3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\bg3.xnb</Output>
+      <Time>2013-01-08T16:56:17.3356228+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skydome.x</Source>
+      <Name>Models\Skydome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationX">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\Skydome.xnb</Output>
+      <Time>2013-01-08T07:59:48.7685421+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Skydome_0.xml</Key>
+        <Value>2013-01-08T19:36:07.4931484+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\SpriteFont.xnb</Output>
+      <Time>2013-01-08T10:09:43.5353772+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ourFont.spritefont</Source>
+      <Name>ourFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\ourFont.xnb</Output>
+      <Time>2013-01-08T14:44:22.8149381+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2013-01-07T20:20:11.7005911+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Ship_0.xml</Output>
+      <Time>2013-01-08T16:19:28.0832608+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShipDiffuse.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">NoChange</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\ShipDiffuse_0.xnb</Output>
+      <Time>2013-01-08T16:14:12.4812094+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skydome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Skydome_0.xml</Output>
+      <Time>2013-01-08T07:59:48.7685421+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\boat.FBX</Source>
+      <Name>Models\boat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Models\boat.xnb</Output>
+      <Time>2013-01-08T20:36:29.6273226+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\boat_0.xml</Key>
+        <Value>2013-01-08T20:36:38.4728286+08:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Textures\EnemyBeastDiffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\boat.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\boat_0.xml</Output>
+      <Time>2013-01-08T20:36:29.6273226+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastDiffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Textures\EnemyBeastDiffuse_0.xnb</Output>
+      <Time>2013-01-08T20:38:54.0115809+08:00</Time>
+    </Item>
+    <Item>
+      <Source>instruction.jpg</Source>
+      <Name>instruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\instruction.xnb</Output>
+      <Time>2013-01-09T14:29:32.37259+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\intro.wma</Source>
+      <Name>Audio\intro</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\intro.xnb</Output>
+      <Extra>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\intro.wma</Extra>
+      <Time>2013-01-09T11:47:41.1491398+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\monster.wav</Source>
+      <Name>Audio\monster</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\monster.xnb</Output>
+      <Time>2013-01-09T18:26:05.0133626+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ship.wav</Source>
+      <Name>Audio\ship</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\ship.xnb</Output>
+      <Time>2013-01-09T18:26:05.0163628+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\beat.wav</Source>
+      <Name>Audio\beat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\beat.xnb</Output>
+      <Time>2013-01-09T18:47:50.602038+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\beat2.wav</Source>
+      <Name>Audio\beat2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\Audio\beat2.xnb</Output>
+      <Time>2013-01-09T18:58:50.3167716+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Documents\Visual Studio 2010\Projects\sir\sir\sirContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Visual Studio 2010\Projects\sir\sir\sirContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Visual Studio 2010\Projects\sir\sir\sir\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-01T04:54:29.6342946+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
